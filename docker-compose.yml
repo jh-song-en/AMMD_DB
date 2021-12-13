@@ -3,16 +3,16 @@ version: "3"
 services:
   mysql:
     container_name: ammd_db_mysql
-    image: mysql:5.7
+    image: hellojaeho/mysql:test2
     ports:
       - ${MYSQL_PORT}:3306
     volumes:
       - ./mysql/mysql:/var/lib/mysql
-      - ./mysql/backup.sql:/home/backup/backup.sql
-      - ./mysql/backup.sh:/home/backup/backup.sh
+      - ./mysql/system_config:/home/system_config
     environment: 
-      MYSQL_ROOT_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_ALLOW_EMPTY_PASSWORD: "true"
     restart: on-failure
+    #command: python3 /home/system_config/initialfunc.py
 
   sftp:
     container_name: ammd_db_sftp
