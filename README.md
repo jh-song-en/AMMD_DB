@@ -73,8 +73,8 @@ After running the server, you can manage the user by user tab.
     By clicking the + button, you can create new user
     By doubleclicking the user, you can manipulate user's status
     
-```Manager```       user can update, upload, delete, download the data and manipulate the database.
-```Researcher```    user can update, upload, and download the data.
+```Manager```       user can update, upload, delete, download the data and manipulate the database.<br>
+```Researcher```    user can update, upload, and download the data.<br>
 ```Visitor```       user can only view and download the data from the database.
 
 
