@@ -10,14 +10,17 @@
 2. [Installation](#installation)
     1. [Docker installation](#docker-installation)
     2. [Server initiation](#server-initiation)
-    3. [Port Forwarding](#port-forwarding)
+    3. [Port forwarding](#port-forwarding)
 3. [User Management](#user-management)
+    1. [User addition](#user-addition)
+    2. [User update](#user-update)
+    3. [User delete](#user-delete)
 
 ## Introduction
 ### Docker
 Docker is a platform that runs the software in the package called the container. 
 The container offers a stable virtual environment that contains the software, enabling easy deployment and build of the server. 
-It is less resource and even quicker than using virtual machines.
+It uses less resource and even quicker than using virtual machines.
 
 ![image](https://user-images.githubusercontent.com/72897259/146742546-49e28e4f-906e-45da-b26a-9ba4e62d4c0f.png)
 
@@ -110,7 +113,7 @@ Now, your server is running. The applicathion will show you the server status an
 
 ![image](https://user-images.githubusercontent.com/72897259/145782179-5d5e0a1a-7eec-4bac-92da-8876493bdb2d.png)
 
-### Port Forwarding
+### Port forwarding
 The server is now installed in your system. __But, you can only use the server with the system using the same router (wifi-machine) for now.__ 
 
 It is because the router has its own ports, and this port needs to be connected to your desktop device's port.
