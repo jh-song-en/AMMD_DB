@@ -164,6 +164,7 @@ __Since the server restarts when the user is generated, it is recommended to pre
 
 ### User addition
 ![image](https://user-images.githubusercontent.com/72897259/146767327-797a807a-7f59-45a0-90b2-77a3ff8020e8.png)
+
     Click the + button to create the new user.
     Insert ID, Password and select the user's permission.
     Click confirm to add the user. (At this step, the user is not generated yet)
@@ -171,6 +172,7 @@ __Since the server restarts when the user is generated, it is recommended to pre
     
 ### User update
 ![image](https://user-images.githubusercontent.com/72897259/146768825-0775facf-14c4-45b2-b0da-c1b461d44850.png)
+
     Doubleclick the id which you want to update.
     If you want to change the password, fill in the New PW and PW confirm.
     If you want to change the authentication, check the desired authentication.
@@ -179,6 +181,7 @@ __Since the server restarts when the user is generated, it is recommended to pre
     
 ### User delete
 ![image](https://user-images.githubusercontent.com/72897259/146769192-14af5eaf-efe0-403b-a1b0-96dd0974687b.png)
+
     Click the id which you want to delete.
     Click the - button to delete the user.
     Press Save and Restart the confirm every change.
