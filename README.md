@@ -137,7 +137,7 @@ Each router has different setting environment. Here are some examples of port fo
 ## User Management
 After running the server, you can manage the user by user tab.
     
-    Press User Button.
+    Press User button.
     
 ![image](https://user-images.githubusercontent.com/72897259/145783172-e41ad2d6-3c69-4516-a0c6-180358e6aa79.png)
 
@@ -168,7 +168,7 @@ __Since the server restarts when the user is generated, it is recommended to pre
     Click the + button to create the new user.
     Insert ID, Password and select the user's permission.
     Click confirm to add the user. (At this step, the user is not generated yet)
-    Press Save and Restart the confirm every change.
+    Press Save and Restart to confirm every change.
     
 ### User update
 ![image](https://user-images.githubusercontent.com/72897259/146768825-0775facf-14c4-45b2-b0da-c1b461d44850.png)
@@ -177,11 +177,11 @@ __Since the server restarts when the user is generated, it is recommended to pre
     If you want to change the password, fill in the New PW and PW confirm.
     If you want to change the authentication, check the desired authentication.
     Click confirm to add the user. (At this step, the user is not generated yet)
-    Press Save and Restart the confirm every change.
+    Press Save and Restart to confirm every change.
     
 ### User delete
 ![image](https://user-images.githubusercontent.com/72897259/146769192-14af5eaf-efe0-403b-a1b0-96dd0974687b.png)
 
     Click the id which you want to delete.
     Click the - button to delete the user.
-    Press Save and Restart the confirm every change.
+    Press Save and Restart to confirm every change.
