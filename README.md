@@ -1,4 +1,4 @@
-# AMMD DB and Platform Manual
+# AMMD DB Manual
 
 
 
@@ -26,7 +26,7 @@ It uses less resource and even quicker than using virtual machines.
 
 
 AMMD DB contains two servers: MySQL server and SFTP server.
-To run the server, some software download and settings must be done.
+To run the server, some software has to be downloaded and settings must be done.
 However, downloading server components separately is time-consuming and problematic 
 since the server software can crash with the existing software.
 Therefore, the Docker is used to build AMMD DB without setting up the server with a few simple steps by using the ```AMMD_DB_initiator.exe```.
@@ -89,7 +89,7 @@ You can initiate the server by setting port numbers. <br>
 (For the security purpose, Port numbers should be set by the server manager.) 
 
 #### What is port?
-Tree elements are required for the server connection: IP address, port number, and user information (id, password). IP address locates the server in the network. The port determines which process or application a message should be delivered. Finally, user information verifies if the user has the authentication to use the service in the server.
+Three elements are required for the server connection: IP address, port number, and user information (id, password). IP address locates the server in the network. The port determines which process or application a message should be delivered. Finally, user information verifies if the user has the authentication to use the service in the server.
 
 For example, if the MySQL port is set as 8806 and the SFTP port is set as 8802, the IP address will be the same since both applications are running on the same server. However, if the user requests through the 8806 port, the server will answer with the MySQL response, and it will respond with SFTP if the connection is through the 8802 port. 
 
