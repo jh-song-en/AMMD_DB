@@ -80,7 +80,7 @@ You can download Docker from [here](https://www.docker.com/get-started) or docke
 
 
 ### Server initiation
-You can either download the source code from this git, or download the zip file [here](https://drive.google.com/file/d/10pGwH0_15fONszIxSZcR4is7Cao_5Sx4/view?usp=sharing)
+You can either download the source code from this git, or download the zip file [here](https://drive.google.com/file/d/11yxfydTJpb3joSHFeTdzLHlHFP-LfPwB/view?usp=sharing)
 
     download AMMD_DB initator.zip file to your device, and unzip the file.
     Open AMMD_DB_initiator.exe.
