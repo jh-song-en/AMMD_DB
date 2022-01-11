@@ -78,6 +78,13 @@ First, we need to download the Docker to be able to build virtual environment of
 You can download Docker from [here](https://www.docker.com/get-started) or docker.com .
 ![image](https://user-images.githubusercontent.com/72897259/146742887-aa0f43aa-4cc3-46cf-917e-4fa34929f7ea.png)
 
+Then install WSL 2.
+
+    Go to https://aka.ms/wsl2kernel
+    and download the WSL2 Linux kernel from step 4.
+
+![image](https://user-images.githubusercontent.com/72897259/148879104-a6531763-2c25-4a8c-b497-53886931f42e.png)
+
 
 ### Server initiation
 You can either download the source code from this git, or download the zip file [here](https://drive.google.com/file/d/11yxfydTJpb3joSHFeTdzLHlHFP-LfPwB/view?usp=sharing)
