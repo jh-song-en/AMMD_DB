@@ -68,7 +68,9 @@ The format needs to be pre-defined by the research group to establish standardiz
 
 ## Installation
 
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/72897259/149836796-6a98b8d6-b6ad-4721-88ea-4796644cfe44.png)](https://www.youtube.com/watch?v=klupDXRGA1M "Video Title")
+Video manual is offered to help understand. Click the image below
+
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/72897259/149836796-6a98b8d6-b6ad-4721-88ea-4796644cfe44.png)](https://youtu.be/-a53ejNsCUg "AMMD DB initiator manual video")
 
 
     Step by step information of the installation are in this block, You can skip the explanation.
